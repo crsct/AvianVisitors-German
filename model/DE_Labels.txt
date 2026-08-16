@@ -27,3 +27,9 @@ Falco tinnunculus,Turmfalke
 Streptopelia decaocto,Türkentaube
 Troglodytes troglodytes,Zaunkönig
 Phylloscopus collybita,Zilpzalp
+Milvus milvus,Rotmilan
+Corvus frugilegus,Saatkrähe
+Motacilla alba,Bachstelze
+Corvus monedula,Dohle
+Ardea cinerea,Graureiher
+Anthus trivialis,Baumpieper
